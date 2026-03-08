@@ -1,4 +1,5 @@
 # Assignment 5 — TEE-Style Confidential Loan Scoring Simulation
+## Basil Ali Khan, Sameer Kamani, Ammar Murtaza
 
 > **Note:** This is a **software simulation** of a Trusted Execution Environment (TEE) workflow. It does not use real hardware enclaves (Intel SGX, AMD SEV, AWS Nitro, etc.). The purpose is to demonstrate the attestation-then-decrypt pattern in Python.
 
